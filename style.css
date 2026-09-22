@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+
+    color: #2c2c2c;
+
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container {
+    width: 80%;
+    max-width: 900px;
+
+    background-color: white;
+
+    padding: 50px;
+
+    border-radius: 20px;
+
+    text-align: center;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+
+    border: 1px solid #e5e5e5;
+}
+
+
+h1 {
+    font-size: 48px;
+
+    margin-bottom: 20px;
+
+    color: #2f3e46;
+}
+
+
+p {
+    font-size: 20px;
+
+    color: #5c677d;
+
+    line-height: 1.7;
+}
+
+
+.book-icon {
+    font-size: 70px;
+
+    margin-bottom: 20px;
+}
+
+
+.welcome-text {
+    margin-top: 20px;
+
+    font-size: 18px;
+
+    color: #6c757d;
+}
